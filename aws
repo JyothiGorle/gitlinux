@@ -1,7 +1,2 @@
-
-x=1
-y=2
-x=x+y
-x=2
-y=3
-
+This file is aws file 
+which provides the services like EC2,s3 ect
